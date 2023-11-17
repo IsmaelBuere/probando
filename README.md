@@ -17,13 +17,13 @@ in this project we are looking to create a function based on the printf from the
 * **_printf.c:**
 	* "int _printf(const char *format, ...)" - This function produces output according to a format.
 * **print_char.c**
-	* "void print_char(va_list ap, unsigned int *num_char)" - function to print a char.
+	* "void print_char(va_list ap, unsigned int *num_char)" - This function to print a char.
 * **print_int.c**
-	* "void print_int(va_list ap, unsigned int *num_char)" - function prints an integer number.
+	* "void print_int(va_list ap, unsigned int *num_char)" - This function prints an integer number.
 * **print_string.c**
-	* "void print_string(va_list ap, unsigned int *num_char)" - function to print a string.
+	* "void print_string(va_list ap, unsigned int *num_char)" - This function to print a string.
 * **rev_array.c**
-	* "void reverse_array(char *a, int n)" - function reverse the content of an array.
+	* "void reverse_array(char *a, int n)" - This function reverse the content of an array.
 * **main.h**: header file
 
 ## Usage
