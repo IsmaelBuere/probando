@@ -29,7 +29,7 @@ in this project we are looking to create a function based on the printf from the
 
 ## Flowchart
 <p>
-<img width="1000" height="1400" src="blob:https://web.whatsapp.com/badcdf8a-8c62-4eff-b914-c5604efe4bf2">
+<img width="1000" height="1400" src="https://i.imgur.com/w2gLYuM.jpeg">
 </p>
 ## Completed projects
 | Task # | Type | Short description |
