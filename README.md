@@ -26,6 +26,16 @@ in this project we are looking to create a function based on the printf from the
 	* "void reverse_array(char *a, int n)" - This function reverses the content of an array.
 * **main.h**: header file
 
+## Completed projects
+| Task # | Type | Short description |
+| ---: | --- | --- |
+|0 | **Mandatory**     | Write a function that produces output according to a format. |
+|1 | **Mandatory**     | Handle the following conversion specifiers: `d` `i` |
+|2 | **Mandatory**     | Create a man page for your function.
+|3 | *Advanced*        | not yet completed |
+|4 | *Advanced*        | not yet completed |
+|5 | *Advanced*        | not yet completed |
+|6 | *Advanced*        | not yet completed |
 ## Usage
 
 You can use the function like this
