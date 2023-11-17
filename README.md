@@ -28,7 +28,7 @@ in this project we are looking to create a function based on the printf from the
 
 
 ## Flowchart
-- <a><img src="https://ibb.co/pv4W6r4" alt="flowchart"/></a>
+- <a><img aling="center" alt="flowchart" src="https://ibb.co/pv4W6r4" height="50"/></a>
 
 ## Completed projects
 | Task # | Type | Short description |
