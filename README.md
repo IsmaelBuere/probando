@@ -31,6 +31,7 @@ in this project we are looking to create a function based on the printf from the
 <p>
 <img width="1000" height="1400" src="https://i.imgur.com/w2gLYuM.jpeg">
 </p>
+
 ## Completed projects
 | Task # | Type | Short description |
 | ---: | --- | --- |
@@ -41,6 +42,7 @@ in this project we are looking to create a function based on the printf from the
 |4 | *Advanced*        | not yet completed |
 |5 | *Advanced*        | not yet completed |
 |6 | *Advanced*        | not yet completed |
+
 ## Usage
 
 You can use the function like this
