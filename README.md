@@ -12,6 +12,19 @@ in this project we are looking to create a function based on the printf from the
 - Clone the repo with: git clone [repo link]
 - Compile all the files .c with: gcc -Wall -Werror -Wextra -pedantic -Wno-format *.c
 ```
+## Files and functions
+
+* **_printf.c:**
+	* "int _printf(const char *format, ...)" - This function produces output according to a format.
+* **print_char.c
+	* "void print_char(va_list ap, unsigned int *num_char)" - function to print a char.
+* **print_int.c
+	* "void print_int(va_list ap, unsigned int *num_char)" - function prints an integer number.
+* **print_string.c**
+	* "void print_string(va_list ap, unsigned int *num_char)" - function to print a string.
+* **rev_array.c**
+	* "void reverse_array(char *a, int n)" - function reverse the content of an array.
+* **main.h**: header file
 
 ## Usage
 
