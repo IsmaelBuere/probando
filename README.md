@@ -26,9 +26,9 @@ in this project we are looking to create a function based on the printf from the
 	* "void reverse_array(char *a, int n)" - This function reverses the content of an array.
 * **main.h**: header file
 
-## Flowchart
 
-<a> <img src="https://ibb.co/pv4W6r4" alt="flowchart"/></a>
+## Flowchart
+- <a><img src="https://ibb.co/pv4W6r4" alt="flowchart"/></a>
 
 ## Completed projects
 | Task # | Type | Short description |
