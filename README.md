@@ -16,9 +16,9 @@ in this project we are looking to create a function based on the printf from the
 
 * **_printf.c:**
 	* "int _printf(const char *format, ...)" - This function produces output according to a format.
-* **print_char.c
+* **print_char.c**
 	* "void print_char(va_list ap, unsigned int *num_char)" - function to print a char.
-* **print_int.c
+* **print_int.c**
 	* "void print_int(va_list ap, unsigned int *num_char)" - function prints an integer number.
 * **print_string.c**
 	* "void print_string(va_list ap, unsigned int *num_char)" - function to print a string.
