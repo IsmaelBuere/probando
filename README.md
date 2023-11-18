@@ -77,7 +77,7 @@ int main()
 | `print_char`                    | `c`                                 | **print_char**.the function is used to display the character        |
 | `print_string`                  | `s`                                 | **print_string**.the function is used to display the string        |
 | `_print`                        | `d` `i`                             | **print_int**.the int argument is converted to signed decimal notation. |
-| `print_%`                      | `%`                                 | **%**. No argument is converted |
+| `_print`                      | `%`                                 | **%**. No argument is converted |
 | `print_oct`                      | `o`                                 | **print_oct**. the function is used to print a number in octal|
 | `print_bin`                      | `b`                                 | **print_bin** the function is used to print a number in binary|
 | `print_hex`                      | `x`                                 | **print_hex**. the function is used to print a number in lowercase hexadecimal base|
