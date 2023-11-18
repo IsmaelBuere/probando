@@ -76,7 +76,14 @@ int main()
 | :------------------             | :------------------                 | :---------------------------------------- |
 | `print_char`                    | `c`                                 | **print_char**.the function is used to display the character        |
 | `print_string`                  | `s`                                 | **print_string**.the function is used to display the string        |
-| `_print`                        | `d` `i`                             | **print_int**.The int argument is converted to signed decimal notation. |
+| `_print`                        | `d` `i`                             | **print_int**.the int argument is converted to signed decimal notation. |
+| `print_%`                      | `%`                                 | **%**. No argument is converted |
+| `print_oct`                      | `o`                                 | **print_oct**. the function is used to print a number in octal|
+| `print_bin`                      | `b`                                 | **print_bin** the function is used to print a number in binary|
+| `print_hex`                      | `x`                                 | **print_hex**. the function is used to print a number in lowercase hexadecimal base|
+| `print_hex_upper`                      | `X`                                 | **print_hex_upper**. the function is used to print a number in a uppercase hexadecimal base|
+| `print_uint`                      | `u`                                 | **print_uint**. the function is used to print a unsigned integer|
+| `non_print_char`                      | `S` `\x`                                | **non_print_char**. handles non-printable characters: \x, followed by the ASCII code value in uppercase hexadecimal.|
 
 ## Authors
 
