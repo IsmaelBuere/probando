@@ -49,10 +49,10 @@ In this project we are looking to create a function based on the printf from the
 ## Completed projects
 | Task # | Type | Short description |
 | ---: | --- | --- |
-|0 | **Mandatory**     | Write a function that produces output according to a format. |
+|0 | **Mandatory**     | It handle the conversion specifiers: c, s and %. |
 |1 | **Mandatory**     | Handle the following conversion specifiers: `d` `i` |
 |2 | **Mandatory**     | Create a man page for your function.
-|3 | *Advanced*        | Handle the following custom conversion: b:the unsigned int argument is converted to binary |
+|3 | *Advanced*        | Handle the following custom conversion. b: the unsigned int argument is converted to binary |
 |4 | *Advanced*        | Handle the following conversion in: u, o, x, X |
 |5 | *Advanced*        | Use a local buffer of 1024 chars in order to call write as little as possible. |
 |6 | *Advanced*        | Handle the following conversion specifier: p. |
@@ -67,8 +67,12 @@ You can use the function like this
 
 int main()
 {
-        _printf("something to print")
-        return;
+	char str[] = "Printing the number:";
+        int number = 1234;
+
+        _printf("%s %d\n", str, number);
+
+        return (0);
 }
 ```
 
@@ -78,8 +82,8 @@ int main()
 | :------------------             | :------------------                 | :---------------------------------------- |
 | `print_char`                    | `c`                                 | **print_char**.the function is used to display the character        |
 | `print_string`                  | `s`                                 | **print_string**.the function is used to display the string        |
-| `_print`                        | `d` `i`                             | **print_int**.the int argument is converted to signed decimal notation. |
-| `_print`                      | `%`                                 | **%**. No argument is converted |
+| `_printf`                        | `d` `i`                             | **print_int**.the int argument is converted to signed decimal notation. |
+| `_printf`                      | `%`                                 | **%**. No argument is converted |
 | `print_oct`                      | `o`                                 | **print_oct**. the function is used to print a number in octal|
 | `print_bin`                      | `b`                                 | **print_bin** the function is used to print a number in binary|
 | `print_hex`                      | `x`                                 | **print_hex**. the function is used to print a number in lowercase hexadecimal base|
