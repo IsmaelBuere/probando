@@ -57,6 +57,9 @@ In this project we are looking to create a function based on the printf from the
 |5 | *Advanced*        | Use a local buffer of 1024 chars in order to call write as little as possible. |
 |6 | *Advanced*        | Handle the following conversion specifier: p. |
 |7 | *Advanced*        | Handle the following custom conversion: S: print the string |
+|8 | *Advanced*        | Handle the following flag characters for non-custom conversion specifiers: +, space, # |
+|9 | *Advanced*        | Handle the following length modifiers for non-custom conversion specifiers: l, h. Conversion specifiers to handle: d, i, u, o, x, X |
+
 
 ## Usage
 
