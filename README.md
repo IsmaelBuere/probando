@@ -4,7 +4,7 @@
 
 ## Description
 
-in this project we are looking to create a function based on the printf from the <stdio.h> library that fulfills the same functions and requirements as the original one
+In this project we are looking to create a function based on the printf from the <stdio.h> library that fulfills the same functions and requirements as the original one.
 
 ## Compilation
 
@@ -43,7 +43,7 @@ in this project we are looking to create a function based on the printf from the
 
 ## Flowchart
 <p>
-<img width="1000" height="1400" src="https://i.imgur.com/w2gLYuM.jpeg">
+<img width="1000" height="1400" src="https://i.imgur.com/LoBzqH2.png">
 </p>
 
 ## Completed projects
@@ -86,7 +86,7 @@ int main()
 | `print_hex_upper`                      | `X`                                 | **print_hex_upper**. the function is used to print a number in a uppercase hexadecimal base|
 | `print_uint`                      | `u`                                 | **print_uint**. the function is used to print a unsigned integer|
 | `non_print_char`                      | `S` `\x`                                | **non_print_char**. handles non-printable characters: \x, followed by the ASCII code value in uppercase hexadecimal.|
-| `print_addr`                      | `p`                                 | **print_addr**. the function is used to print the adrres of a pointer |
+| `print_addr`                      | `p`                                 | **print_addr**. the function is used to print the address of a pointer |
 
 ## Authors
 
